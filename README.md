@@ -1,7 +1,7 @@
 Getting Started
 
 
-This is a multi module project that contains different type of spring projects which are independent from eachOther.
+This is a multi module project that contains different type of spring projects which are independent from eachother.
 
 
 
